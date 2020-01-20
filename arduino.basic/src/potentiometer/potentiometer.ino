@@ -1,5 +1,7 @@
-const int potPin = A0;
-const int ledPin = 11;
+#include <analogWrite.h>
+
+const int potPin = 12;
+const int ledPin = 14;
 
 void setup() 
 {
