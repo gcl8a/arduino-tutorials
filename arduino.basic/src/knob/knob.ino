@@ -1,7 +1,7 @@
 #include <ESP32Servo.h>
 
 Servo myservo;  // create servo object to control a servo
-const int servoPin = 9;
+const int servoPin = 14;
 
 int potPin = 27;  // analog pin used to read the potentiometer
 
